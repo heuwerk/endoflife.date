@@ -8,6 +8,8 @@ permalink: /redhat-satellite
 alternate_urls:
   - /rhsat
   - /red-hat-satellite
+  - /satellite
+  - /rhel-satellite
 versionCommand: dnf info satellite
 releasePolicyLink: https://access.redhat.com/support/policy/updates/satellite
 changelogTemplate: "https://docs.redhat.com/en/documentation/red_hat_satellite/__RELEASE_CYCLE__"
